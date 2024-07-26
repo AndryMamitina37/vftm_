@@ -8,7 +8,7 @@ function Hero() {
   return (
     <div
       className="relative min-h-screen w-full bg-cover bg-no-repeat"
-      style={{ backgroundImage: `url(${HomeImage.src})` }}
+      style={{ backgroundImage: `url(${HomeImage})` }}
     >
       <div className="relative min-h-screen w-full  bg-cover bg-no-repeat">
         <div className="absolute inset-0 h-full w-full " />
