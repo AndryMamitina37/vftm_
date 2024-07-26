@@ -1,7 +1,7 @@
 "use client";
 import { Button } from "@material-tailwind/react";
 import Pagination from "./pagination";
-import Lien from "../link";
+import Lien from "../../link";
 
 const links = [
   { name: "Projet1", href: "#" },
