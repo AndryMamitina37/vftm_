@@ -1,3 +1,3 @@
-const link = "https://github.com/AndryMamitina37/vftm_";
+const link = "https://andrymamitina37.github.io/vftm_";
 
 export default link;
